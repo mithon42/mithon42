@@ -1,4 +1,4 @@
-https://pbs.twimg.com/profile_banners/1472794681851269122/1639991039/600x200
+https://blog.jetbrains.com/wp-content/uploads/2021/10/how-to-manage-access-to-projects-and-git-repositories-blogpost-banner.png
 
 ### Hi there 👋, my name is Mithon Ali
 #### I'm Web Developer

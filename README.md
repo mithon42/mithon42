@@ -1,8 +1,6 @@
-https://blog.jetbrains.com/wp-content/uploads/2021/10/how-to-manage-access-to-projects-and-git-repositories-blogpost-banner.png
-
 ### Hi there 👋, my name is Mithon Ali
 #### I'm Web Developer
-![I'm Web Developer]
+![I'm Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEj6N05U_5MUQ/profile-displaybackgroundimage-shrink_200_800/0/1644255969006?e=1649894400&v=beta&t=6fxR72pnhvAGbZKHOaowmo0AvOpCy-wRF-X-bMMbrkU)
 
 I'm a Professional Freelancer And Web Designer. I can design all kinds of web pages from small to big. If anyone has this kind of work, please hire me.
 Thanks

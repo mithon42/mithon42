@@ -1,8 +1,8 @@
-https://pbs.twimg.com/profile_banners/1472794681851269122/1639991039/600x200
+(https://pbs.twimg.com/profile_banners/1472794681851269122/1639991039/600x200)
 
 ### Hi there 👋, my name is Mithon Ali
 #### I'm Web Developer
-![I'm Web Developer].
+![I'm Web Developer]
 
 I'm a Professional Freelancer And Web Designer. I can design all kinds of web pages from small to big. If anyone has this kind of work, please hire me.
 Thanks
@@ -18,12 +18,3 @@ Skills: HTML / CSS / SASS / Bootstrap / JS / JSON / jQuery / Wordpress
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/mithon42)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mithon42)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/mithon42)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/mithon42)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/mithon42)  

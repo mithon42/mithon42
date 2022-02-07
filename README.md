@@ -1,4 +1,4 @@
-(https://media-exp1.licdn.com/dms/image/C4E16AQEj6N05U_5MUQ/profile-displaybackgroundimage-shrink_200_800/0/1644255969006?e=1649894400&v=beta&t=6fxR72pnhvAGbZKHOaowmo0AvOpCy-wRF-X-bMMbrkU)
+https://pbs.twimg.com/profile_banners/1472794681851269122/1639991039/600x200
 
 ### Hi there 👋, my name is Mithon Ali
 #### I'm Web Developer

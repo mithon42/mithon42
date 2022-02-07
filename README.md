@@ -1,4 +1,4 @@
-(https://pbs.twimg.com/profile_banners/1472794681851269122/1639991039/600x200)
+https://pbs.twimg.com/profile_banners/1472794681851269122/1639991039/600x200
 
 ### Hi there 👋, my name is Mithon Ali
 #### I'm Web Developer

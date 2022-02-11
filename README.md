@@ -1,6 +1,6 @@
 
 
-![I am a Programmer & Scout](https://user-images.githubusercontent.com/96917595/152844994-7ce725ed-a1ab-404d-aba9-d4f8deb57481.gif)
+![I am a Programmer & Scout](https://media-exp1.licdn.com/dms/image/C4E16AQGRKWSjUvxyPw/profile-displaybackgroundimage-shrink_350_1400/0/1644477354280?e=1649894400&v=beta&t=wlvTILsliIPbn6t8QPasqhj4n7EylO2qktz3srSE3P4)
 ### Hi there 👋, my name is Mithon Ali
 #### I'm Web Developer
 ##### I'm a Professional Freelancer And Web Designer. I can design all kinds of web pages from small to big. If anyone has this kind of work, please hire me. Thanks

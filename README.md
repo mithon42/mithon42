@@ -1,22 +1,69 @@
+<div align="center">
+<img src="https://media.licdn.com/dms/image/D5616AQG7Po4uty2Zrw/profile-displaybackgroundimage-shrink_350_1400/0/1697794522570?e=1703721600&v=beta&t=64VxUle62Mbp6L6zE0KuUpALhP6MBR72ZsPco9e0du8" align="center" height="" width="600" />
+</div>  
+  
 
-## Hi there 👋, my name is Mithon Ali
-#### I'm a Professional Freelancer And Web Developer.
-![I'm a Professional Freelancer And Web Developer.](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/290579644_1166274347549524_3975734086111972037_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF_6sE_CL7B-jnChtpKrrI6wAbAQDgaavrABsBAOBpq-iIYfKiKBkpmSlcy-Q1w33YGmXebJDrxc-kcKMxPW_EK&_nc_ohc=cx-tmtftNGkAX-qh7--&_nc_ht=scontent.fdac24-2.fna&oh=00_AT95awYiLAN0Bl1yrg7LZntTzQ_2Jf0CM-Vhn_KzX0dzqw&oe=62F472AD)
-#### I'm a Professional Freelancer And Web Developer. I can design all kinds of web pages from small to big. If anyone has this kind of work, please hire me. Thanks
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-<h4><b>My Skills:</b></h4>
+## Hi there 👋, my name is Mithon Ali 
+I'm a Professional Freelancer And Front-End Web Developer 🚀🥰I'm Mithon Ali,  🚀  
+  
 
-[<img src='https://user-images.githubusercontent.com/96917595/152837779-2ec60249-35ab-4499-8424-0f1474cdfc85.svg' alt='Html' height='40'>](https://en.wikipedia.org/wiki/HTML)  [<img src='https://user-images.githubusercontent.com/96917595/152838083-82733425-fa7b-4939-b890-201a8a3266fe.svg' alt='CSS' height='40'>](https://en.wikipedia.org/wiki/CSS)  [<img src='https://user-images.githubusercontent.com/96917595/152838388-f756e45c-82f1-434d-802c-292668284c6c.svg' alt='js' height='40'>](https://en.wikipedia.org/wiki/JavaScript)  <img src='https://user-images.githubusercontent.com/96917595/152838685-215a5119-77ae-4a1e-bf89-13d05c921e98.svg' alt='BOOTSTRAP' height='40'>
+Hi! I am Mithon from Bangladesh. I am a CSE student. I have been a professional Front end web developer since 2022. I have much experience in front-end web development. I love coding and programming And Front-end development is not my hobby It is only my passion. 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on Github
-- 💬 Ask me about My Details
-- 📫 How to reach me: Kushtia,Bangladesh
-- 😄 Pronouns: Programmer 
+If you need any help with my services, please feel free to contact me anytime as I am always listening.
+Thank you 💓  
+  
 
-
-[<img src='https://user-images.githubusercontent.com/96917595/152697555-2bcaf781-bf2e-4140-8728-dcd736e4decb.svg' alt='github' height='40'>](https://github.com/mithon42)  [<img src='https://user-images.githubusercontent.com/96917595/152697600-a609b14e-3029-4524-a70a-97e0fa632b89.svg' alt='facebook' height='40'>](https://www.facebook.com/mithon2003) [<img src='https://user-images.githubusercontent.com/96917595/152697777-46fd75ad-4288-432e-8a6c-7338b8b3acbd.png' alt='website' height='40'>](https://arafat.xiowner.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-mithon-ali-37406a231//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MithonIslam12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mithon42.github.io/Portfolio/)  
+<br/>  
 
 
+## My Skill Set  
+<div align="center">  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mithon2003/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/mithon42" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/https://www.facebook.com/mithon2003" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/mithon.2003/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/https://www.youtube.com/@programmermithon2151" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mithon42&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mithon42&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

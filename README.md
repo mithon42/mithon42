@@ -4,7 +4,7 @@
   
 
 ## Hi there 👋, my name is Mithon Ali 
-I'm a Professional Freelancer And Front-End Web Developer 🚀🥰I'm Mithon Ali,  🚀  
+I'm a Professional Freelancer And Front-End Web Developer 🚀
   
 
 Hi! I am Mithon from Bangladesh. I am a CSE student. I have been a professional Front end web developer since 2022. I have much experience in front-end web development. I love coding and programming And Front-end development is not my hobby It is only my passion. 
